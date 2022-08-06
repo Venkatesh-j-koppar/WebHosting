@@ -507,9 +507,7 @@ color: #5d5d5d;
 
 @media screen and (max-width:450px){
 
-    body{
-        border: solid red;
-    }
+    
 
     .logo{
         display: block;
@@ -645,15 +643,15 @@ width: 80vw;
  
     display: grid;
     grid-template-columns: 1fr 1fr ;
-    grid-gap:50px;
+    grid-gap:10px;
     width: 90vw;
-    margin: 5vw;
+    margin: 2vw;
     font-family: "Poppins";
+  
+    overflow-x: scroll;
 }
 
-.sections-mid2-box{
-    margin: auto;
-}
+
 
 .sections-mid2-box>img{
     margin:0px 50px ;
@@ -661,6 +659,7 @@ width: 80vw;
 
 .sections-mid2-box>h1{
     text-align: center;
+    font-size: 25px;
 }
 
 .sections-mid2-box>p{
@@ -686,20 +685,23 @@ width: 80vw;
 
 .feedback
 {
-    box-shadow: 5px 1px 5px #000000;
+    box-shadow: 5px 5px 5px #000000;
     border-radius: 10px;
     margin: 5px;
     height: 350px;
+  
     
 }
 
 .customerfeedback-sections{
     overflow-y: scroll;
+
 }
 
 .midsection-5-block{
     flex-direction: column;
     justify-content: center;
+   
 }
 
 .midsection-5-left{
