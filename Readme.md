@@ -14,8 +14,14 @@ Was able to use concepts of css like selectors which are used to target a partic
 
 ![image](./Output.png)
 
+## Tablet View
+![TabletView](./Tablet%20Screenshot.png)
+
+## Mobile View
+![MobileView](./Mobile%20Screenshot.png)
+
 ## Time taken to complete this project:
-6 hrs
+7 hrs
 
 ## Application Link
 https://webhosting-web-page.netlify.app/
